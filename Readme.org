@@ -15,9 +15,7 @@
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Presentación de periodismodatos para Facultad de Periodismo de Universidad de Castilla-La Mancha (Cuenca).">
 #+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
 #+REVEAL_PLUGINS: (markdown notes)
-#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
-
-* Periodismo de Datos
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
 
 Notas para la charla sobre periodismo de datos en la Facultad de
 Periodismo de la Universidad de Castilla-La Mancha.
